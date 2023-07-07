@@ -1,2 +1,2 @@
 #!/bin/bash
-12-file_type /tmp/iam12-file_type
+12-file_type /tmp/iam 12-file_type
